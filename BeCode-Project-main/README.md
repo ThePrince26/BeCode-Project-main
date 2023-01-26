@@ -19,6 +19,8 @@ In the file "machine learning", I built a very basic pipeline that gave me a ver
 
 I tried to build a linear regression model but it gave again a low value (0.2). The random regression was much accurate though (0.74). I was pretty happy with that.
 
+I learned a lot in this project. At the preprocessing dropped the na value and the nul value.  
+
 ---
 
 Installation:
