@@ -104,13 +104,16 @@ Timeline:
 #Data Scrapping
 #Data Visualization
 
-Getting familiar with Pandas, doing exercices, watching tutorials,
+Day 1 - 5 : Getting familiar with Pandas, doing exercices & watching tutorials.
 Day 6 & 7 : Creating the code & obtaining the visuals.
+
 I didn't have enough time to clean my data in the way that I wanted and to make the graphs more readable
 but it was nevertheless a good first exercice.
 
 #Machine Learning
 
 Learning the material
+
 Cleaning the data
+
 Building the pipeline, getting the result & evaluation
