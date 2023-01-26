@@ -15,6 +15,10 @@ The graphs aim to answer these two questions.
 
 #Machine Learning
 
+In the file "machine learning", I built a very basic pipeline that gave me a very low number (0.05). I was not satisfied. The cleaning of Florent's database would have taken too long, I decided to use Anil's. 
+
+I tried to build a linear regression model but it gave again a low value (0.2). The random regression was much accurate though (0.74). I was pretty happy with that.
+
 ---
 
 Installation:
@@ -30,6 +34,13 @@ To obtain my graphs, I had to import the following librairies ;
 
 #Machine Learning
 
+- Pandas
+- numpy
+- Matplotlib
+- seaborn
+- sklearn
+- warnings
+
 ---
 
 Usage:
@@ -41,6 +52,8 @@ This code is only useful to understand the logic of pandas and a data analysis p
 The graphs can only be used for the sake of this first data analysis project.
 
 #Machine Learning
+
+The machine learning will deliver accurate price predictions of the real estate market in Belgium.
 
 ---
 
@@ -54,15 +67,25 @@ The visuals are obtain thanks to Matplotlib.
 
 #Machine Learning
 
+The visuals are again obtain thanks to Matplotlib.
+
 ---
 
 Contributor:
 
 #Data Scrapping
+
+Maité & Dimitri
+
+
 #Data Visualization
-#Machine Learning
+
 Augustin Carbonnelle
-Maité & Dimitri (Data Scrapping part)
+
+
+#Machine Learning
+
+Augustin Carbonnelle
 
 ---
 
@@ -70,9 +93,16 @@ Timeline:
 
 #Data Scrapping
 #Data Visualization
-#Machine Learning
 
 Getting familiar with Pandas, doing exercices, watching to tutorials on YouTube,
 Day 6 & 7 : Creating the code & obtaining the visuals.
 I didn't have enough time to clean my data in the way that I wanted and to make the graphs more "sexy"
 but it was nevertheless a good first exercice. I will do a better job next time.
+
+#Machine Learning
+
+Sick days
+
+Learning the material
+
+Building the pipeline & Evaluation
